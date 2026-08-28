@@ -8,7 +8,7 @@
 
 ---
 
-## Open Positions (21)
+## Open Positions (22)
 
 ### Aviation & Engineering
 - [Sales Director Aircraft Engines — Singapore](https://careers.welinktalent.com/job/34912)
@@ -29,6 +29,7 @@
 - [Manager / Senior Manager — Derivatives](https://careers.welinktalent.com/job/34813)
 
 ### Banking & Wealth Management
+- [Business Analyst — CIB, Singapore](https://careers.welinktalent.com/job/35048)
 - [Senior Consultant CIB — Hong Kong](https://careers.welinktalent.com/job/34345)
 - [Senior Consultant / Manager — CIB, Singapore](https://careers.welinktalent.com/job/34077)
 - [Wealth Management Manager / Senior Manager / Managing Director](https://careers.welinktalent.com/job/33975)
