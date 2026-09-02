@@ -1,8 +1,10 @@
 # WeLinkTalent Careers — Open Job Opportunities
 
-**WeLinkTalent** is a boutique executive search & recruitment firm based in **Singapore** since 2015. We specialise in senior and mid-level recruitment across **tech, finance, aviation, AI and business development** in Singapore, Hong Kong and across Asia.
+**WeLinkTalent** is a boutique executive search & recruitment firm based in **Singapore** since 2015. We recruit senior and mid-level talent across **technology, finance, aviation, AI, machine learning, data and business development** in Singapore, Hong Kong and across Asia.
 
 > We link the right talent to the right organisation.
+
+We specialise in placing professionals for **AI, ML, DevOps, data engineering, cloud, software, fintech, web3** and leadership roles. Typical positions: AI/ML DevOps engineers, data scientists, platform & cloud engineers, product managers, and C-level / director appointments.
 
 🔗 **Full job board:** https://careers.welinktalent.com/
 
@@ -44,6 +46,19 @@
 
 ---
 
+## What We Recruit — Skills & Stack
+
+We regularly place candidates across:
+
+- **AI / Machine Learning** — ML engineers, data scientists, ML Ops, LLM & applied AI
+- **DevOps & Platform** — CI/CD, Kubernetes, Terraform, AWS, Azure, GCP
+- **Software Engineering** — Python, PHP, Java, TypeScript, Go, full-stack
+- **Data Engineering** — SQL, data pipelines, analytics, data platforms
+- **FinTech & Web3** — payments, trading systems, blockchain, digital assets
+- **Leadership & Advisory** — CIO, CTO, directors, transformation & strategy
+
+---
+
 ## How to Apply
 
 1. Browse the full list on [careers.welinktalent.com](https://careers.welinktalent.com/)
@@ -57,7 +72,7 @@
 ## About WeLinkTalent
 
 - 🏢 Boutique executive search firm — Singapore, since 2015
-- 🎯 Senior & mid-level recruitment: tech, finance, aviation, AI
+- 🎯 Senior & mid-level recruitment: tech, finance, aviation, AI, machine learning, data
 - 🌏 Coverage: Singapore, Hong Kong, Southeast Asia & global
 - 🤝 Retained, project-based and strategic recruitment partnerships
 - 📍 1 Raffles Place, #02-01 One Raffles Place Mall, Singapore 048616
