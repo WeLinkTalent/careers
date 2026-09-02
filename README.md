@@ -65,7 +65,7 @@ We regularly place candidates across:
 2. Apply directly through the job posting
 3. Our consultants review every application personally
 
-**Not seeing the right role?** We recruit on a retained and project basis for clients across Asia — [submit your CV](https://careers.welinktalent.com/submit-vacancy) and we'll keep you in mind.
+**Not seeing the right role?** We recruit on a retained and project basis for clients across Asia — [submit your CV](https://careers.welinktalent.com/submit-cv) and we'll keep you in mind.
 
 ---
 
