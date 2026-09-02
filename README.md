@@ -4,7 +4,7 @@
 
 > We link the right talent to the right organisation.
 
-We specialise in placing professionals for **AI, ML, DevOps, data engineering, cloud, software, fintech, web3** and leadership roles. Typical positions: AI/ML DevOps engineers, data scientists, platform & cloud engineers, product managers, and C-level / director appointments.
+We specialise in placing **AI ML DevOps** talent and professionals for **AI, ML, DevOps, data engineering, cloud, software, fintech, web3** and leadership roles. Typical positions: AI/ML DevOps engineers, data scientists, platform & cloud engineers, product managers, and C-level / director appointments.
 
 🔗 **Full job board:** https://careers.welinktalent.com/
 
