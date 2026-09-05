@@ -25,7 +25,7 @@ We specialise in placing **AI ML DevOps** talent and professionals for **AI, ML,
 
 ### Finance & Accounting
 - [Revenue Recognition Accountant (Woodlands)](https://careers.welinktalent.com/job/34945)
-- [Finance and Administration Manager — SME](https://careers.welinktalent.com/job/34879)
+- [Accounting and Administration Manager — SME](https://careers.welinktalent.com/job/34879)
 - [Senior Accounting Specialist](https://careers.welinktalent.com/job/34615)
 - [Payroll Specialist](https://careers.welinktalent.com/job/34614)
 - [Manager / Senior Manager — Derivatives](https://careers.welinktalent.com/job/34813)
