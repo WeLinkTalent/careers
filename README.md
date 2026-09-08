@@ -10,9 +10,9 @@ We specialise in placing **AI ML DevOps** talent and professionals for **AI, ML,
 
 ---
 
-## Open Positions (21)
+## Open Positions (20)
 
-_Last updated: September 6, 2026 — auto-synced from careers.welinktalent.com_
+_Last updated: September 8, 2026 — auto-synced from careers.welinktalent.com_
 
 ### Aviation & Engineering
 - [Sales Director Aircraft Engines — Singapore](https://careers.welinktalent.com/job/34912)
@@ -27,7 +27,6 @@ _Last updated: September 6, 2026 — auto-synced from careers.welinktalent.com_
 
 ### Finance & Accounting
 - [Revenue Recognition Accountant (Woodlands)](https://careers.welinktalent.com/job/34945)
-- [Accounting and Administration Manager — SME](https://careers.welinktalent.com/job/34879)
 - [Senior Accounting Specialist](https://careers.welinktalent.com/job/34615)
 - [Manager / Senior Manager — Derivatives](https://careers.welinktalent.com/job/34813)
 
