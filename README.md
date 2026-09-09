@@ -12,7 +12,7 @@ We specialise in placing **AI ML DevOps** talent and professionals for **AI, ML,
 
 ## Open Positions (20)
 
-_Last updated: September 8, 2026 — auto-synced from careers.welinktalent.com_
+_Last updated: September 9, 2026 — auto-synced from careers.welinktalent.com_
 
 ### Aviation & Engineering
 - [Sales Director Aircraft Engines — Singapore](https://careers.welinktalent.com/job/34912)
@@ -21,7 +21,7 @@ _Last updated: September 8, 2026 — auto-synced from careers.welinktalent.com_
 
 ### Technology & AI
 - [Senior AI DevOps Engineer — Singapore](https://careers.welinktalent.com/job/34949)
-- [AI/ML DevOps Forward Engineer](https://careers.welinktalent.com/job/34714)
+- [AI ML Forward Deploy Engineer](https://careers.welinktalent.com/job/34714)
 - [Manager / Director — Enterprise Data & AI Advisory (SEA)](https://careers.welinktalent.com/job/34947)
 - [Manager / Director — Business Technology Advisory (SEA)](https://careers.welinktalent.com/job/34946)
 
