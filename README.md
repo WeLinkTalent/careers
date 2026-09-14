@@ -10,9 +10,9 @@ We specialise in placing **AI ML DevOps** talent and professionals for **AI, ML,
 
 ---
 
-## Open Positions (20)
+## Open Positions (21)
 
-_Last updated: September 9, 2026 — auto-synced from careers.welinktalent.com_
+_Last updated: September 14, 2026 — auto-synced from careers.welinktalent.com_
 
 ### Aviation & Engineering
 - [Sales Director Aircraft Engines — Singapore](https://careers.welinktalent.com/job/34912)
@@ -36,6 +36,7 @@ _Last updated: September 9, 2026 — auto-synced from careers.welinktalent.com_
 - [Senior Consultant / Manager — CIB, Singapore](https://careers.welinktalent.com/job/34077)
 - [Wealth Management Manager / Senior Manager / Managing Director](https://careers.welinktalent.com/job/33975)
 - [Senior Business Development, Institutional Clients (HK)](https://careers.welinktalent.com/job/33676)
+- [KYC Analyst — Hong Kong](https://careers.welinktalent.com/job/35114)
 
 ### Business Development & Leadership
 - [Strategic Business Manager](https://careers.welinktalent.com/job/34580)
