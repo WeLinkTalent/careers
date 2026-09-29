@@ -84,6 +84,10 @@
   details.index summary { cursor:pointer; font-weight:600; color:var(--violet); }
   details.index b { color:var(--ink); }
   details.index .src { font-size:11.5px; }
+  details.index a { color:var(--violet); text-decoration:none; border-bottom:1px solid #ded8f5; }
+  details.index a:hover { border-bottom-color:var(--violet); }
+  .plink { margin-top:7px; }
+  .plink a { color:var(--violet); font-weight:600; text-decoration:none; font-size:12.5px; }
   footer { padding:0 26px 28px; color:var(--muted); font-size:11.5px; line-height:1.65; }
 </style>
 </head>
@@ -198,10 +202,10 @@
 
   <details class="index">
     <summary>Open the full list behind this map</summary>
-    <p><b>30 IESF member countries.</b> China, India, Singapore, Israel, Turkey, Austria, Belgium, Czechia, Denmark, Finland, France, Germany, Hungary, Italy, Netherlands, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, United Kingdom, Brazil, Canada, Chile, Colombia, Mexico, Peru and United States of America. WeLinkTalent holds the Singapore seat.</p>
+    <p><b>30 IESF member countries.</b> <a href="https://iesf.com/partners/china/" target="_blank" rel="noopener">China</a>, <a href="https://iesf.com/partners/india/" target="_blank" rel="noopener">India</a>, <a href="https://iesf.com/partners/singapore/" target="_blank" rel="noopener">Singapore</a>, <a href="https://iesf.com/partners/israel/" target="_blank" rel="noopener">Israel</a>, <a href="https://iesf.com/partners/turkey/" target="_blank" rel="noopener">Turkey</a>, <a href="https://iesf.com/partners/austria/" target="_blank" rel="noopener">Austria</a>, <a href="https://iesf.com/partners/belgium/" target="_blank" rel="noopener">Belgium</a>, <a href="https://iesf.com/partners/czech-republic/" target="_blank" rel="noopener">Czechia</a>, <a href="https://iesf.com/partners/denmark/" target="_blank" rel="noopener">Denmark</a>, Finland, <a href="https://iesf.com/partners/france/" target="_blank" rel="noopener">France</a>, <a href="https://iesf.com/partners/germany/" target="_blank" rel="noopener">Germany</a>, <a href="https://iesf.com/partners/hungary/" target="_blank" rel="noopener">Hungary</a>, <a href="https://iesf.com/partners/italy/" target="_blank" rel="noopener">Italy</a>, <a href="https://iesf.com/partners/the-netherlands/" target="_blank" rel="noopener">Netherlands</a>, <a href="https://iesf.com/partners/norway/" target="_blank" rel="noopener">Norway</a>, <a href="https://iesf.com/partners/poland/" target="_blank" rel="noopener">Poland</a>, Portugal, <a href="https://iesf.com/partners/romania/" target="_blank" rel="noopener">Romania</a>, <a href="https://iesf.com/partners/spain/" target="_blank" rel="noopener">Spain</a>, <a href="https://iesf.com/partners/sweden/" target="_blank" rel="noopener">Sweden</a>, <a href="https://iesf.com/partners/switzerland/" target="_blank" rel="noopener">Switzerland</a>, <a href="https://iesf.com/partners/united-kingdom/" target="_blank" rel="noopener">United Kingdom</a>, Brazil, <a href="https://iesf.com/partners/canada/" target="_blank" rel="noopener">Canada</a>, <a href="https://iesf.com/partners/chile/" target="_blank" rel="noopener">Chile</a>, <a href="https://iesf.com/partners/colombia/" target="_blank" rel="noopener">Colombia</a>, <a href="https://iesf.com/partners/mexico/" target="_blank" rel="noopener">Mexico</a>, <a href="https://iesf.com/partners/peru/" target="_blank" rel="noopener">Peru</a> and <a href="https://iesf.com/partners/usa/" target="_blank" rel="noopener">United States of America</a>. WeLinkTalent holds the Singapore seat. Each name links to that partner's page on iesf.com.</p>
     <p><b>4 alumni members.</b> South Africa, Thailand, Panama and Hong Kong. A partner who retires stays close to the network and supports the incoming member.</p>
     <p><b>121 countries with employer-of-record coverage</b> through Multiplier: Afghanistan, Angola, Argentina, Armenia, Australia, Austria, Azerbaijan, Bahamas, Bahrain, Bangladesh, Barbados, Belarus, Belgium, Belize, Bhutan, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Burkina Faso, Cambodia, Canada, Chile, China, Colombia, Costa Rica, Croatia, Cuba, Cyprus, Czechia, Denmark, Dominican Republic, Ecuador, Egypt, El Salvador, Estonia, Ethiopia, Fiji, Finland, France, Georgia, Germany, Ghana, Greece, Guatemala, Guyana, Haiti, Honduras, Hong Kong, Hungary, India, Indonesia, Ireland, Israel, Italy, Jamaica, Japan, Jordan, Kazakhstan, Kenya, Kosovo, Kuwait, Laos, Latvia, Liechtenstein, Lithuania, Luxembourg, Macau, Malaysia, Maldives, Malta, Mauritius, Mexico, Montenegro, Myanmar, Namibia, Nepal, Netherlands, New Zealand, Nicaragua, Nigeria, North Macedonia, Norway, Pakistan, Panama, Paraguay, Peru, Philippines, Poland, Portugal, Puerto Rico, Qatar, Romania, Russia, Saudi Arabia, Serbia, Singapore, Slovakia, Slovenia, South Africa, South Korea, Spain, Sri Lanka, Suriname, Sweden, Switzerland, Taiwan, Tanzania, Thailand, Trinidad and Tobago, Turkey, Uganda, Ukraine, United Arab Emirates, United Kingdom, United States, Uruguay, Uzbekistan, Venezuela, Vietnam and Zimbabwe.</p>
-    <p class="src">Sources: the official IESF member list (AGM Ho Chi Minh City, September 2026) and the country pages published by Multiplier, read on 28 September 2026. Membership means the network has a partner on the ground; employer-of-record coverage means we can employ someone there without a local entity.</p>
+    <p class="src">Brazil, Finland and Portugal do not have a partner page on iesf.com yet. Sources: the official IESF member list (AGM Ho Chi Minh City, September 2026) and the country pages published by Multiplier, read on 28 September 2026. Membership means the network has a partner on the ground; employer-of-record coverage means we can employ someone there without a local entity.</p>
   </details>
 </footer>
 
@@ -217,6 +221,10 @@ let MODE = "iesf";
 const W = 960, H = 500;
 const svg = d3.select("#map");
 const tip = document.getElementById("tip"), detail = document.getElementById("detail");
+
+// Pages partenaires IESF : meme format pour tous les pays (iesf.com/partners/<pays>/).
+// Les 27 adresses ci-dessous ont ete ouvertes une par une le 29/09/2026 (HTTP 200).
+const IESF_PAGE = {"Austria": "https://iesf.com/partners/austria/", "Belgium": "https://iesf.com/partners/belgium/", "Canada": "https://iesf.com/partners/canada/", "Chile": "https://iesf.com/partners/chile/", "China": "https://iesf.com/partners/china/", "Colombia": "https://iesf.com/partners/colombia/", "Czechia": "https://iesf.com/partners/czech-republic/", "Denmark": "https://iesf.com/partners/denmark/", "France": "https://iesf.com/partners/france/", "Germany": "https://iesf.com/partners/germany/", "Hungary": "https://iesf.com/partners/hungary/", "India": "https://iesf.com/partners/india/", "Israel": "https://iesf.com/partners/israel/", "Italy": "https://iesf.com/partners/italy/", "Mexico": "https://iesf.com/partners/mexico/", "Netherlands": "https://iesf.com/partners/the-netherlands/", "Norway": "https://iesf.com/partners/norway/", "Peru": "https://iesf.com/partners/peru/", "Poland": "https://iesf.com/partners/poland/", "Romania": "https://iesf.com/partners/romania/", "Singapore": "https://iesf.com/partners/singapore/", "Spain": "https://iesf.com/partners/spain/", "Sweden": "https://iesf.com/partners/sweden/", "Switzerland": "https://iesf.com/partners/switzerland/", "Turkey": "https://iesf.com/partners/turkey/", "United Kingdom": "https://iesf.com/partners/united-kingdom/", "United States of America": "https://iesf.com/partners/usa/"};
 const legend = document.getElementById("legend"), legendTitle = document.getElementById("legendTitle");
 
 svg.append("rect").attr("width", W).attr("height", H).attr("fill", "#f2f5fa").attr("rx", 10);
@@ -293,6 +301,7 @@ function show(id, name, info) {
   if (c && c.note)   h += `<br>${c.note}`;
   if (c && c.new)    h += `<div class="badge">New member 2026</div>`;
   if (c && c.member) h += `<div class="badge tl">IESF</div>`;
+  if (c && c.member && IESF_PAGE[name]) h += `<div class="plink"><a href="${IESF_PAGE[name]}" target="_blank" rel="noopener">IESF partner page &rarr;</a></div>`;
   if (c && c.eor)    h += `<div class="badge tl">EOR</div>`;
   if (!c)            h += `<br>No data for this country.`;
   detail.innerHTML = h;
