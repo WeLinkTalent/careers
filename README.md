@@ -8,6 +8,8 @@ We specialise in placing **AI ML DevOps** talent and professionals for **AI, ML,
 
 🔗 **Full job board:** https://careers.welinktalent.com/
 
+🗺️ **Where we can support your search:** [view the IESF network map](https://welinktalent.github.io/careers/map/)
+
 ---
 
 ## Open Positions (21)

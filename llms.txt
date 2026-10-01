@@ -1,0 +1,12 @@
+# WeLinkTalent Careers
+
+> WeLinkTalent is a boutique executive search &amp; recruitment firm based in Singapore since 2015. We recruit senior and mid-level talent across technology, finance, aviation, AI, machine learning, data and business development.
+
+## Pages
+
+- [Open Job Opportunities](https://welinktalent.github.io/careers/): current open positions across Asia, auto-synced from careers.welinktalent.com.
+- [Where we can support your search](https://welinktalent.github.io/careers/map/): the IESF member network and the 121 countries with employer-of-record coverage.
+
+## Apply
+
+Apply directly on the full job board: https://careers.welinktalent.com/
