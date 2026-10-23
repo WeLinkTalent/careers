@@ -14,39 +14,41 @@ We specialise in placing **AI ML DevOps** talent and professionals for **AI, ML,
 
 ## Open Positions (22)
 
-_Last updated: October 6, 2026 — auto-synced from careers.welinktalent.com_
+_Last updated: October 23, 2026 — auto-synced from careers.welinktalent.com_
+
+Singapore roles: Open to Singaporeans, PRs and Employment Pass holders.
 
 ### Aviation & Engineering
-- [Sales Director Aircraft Engines — Singapore](https://careers.welinktalent.com/job/34912)
-- [Technical Architect / Solutions — Air Traffic Management (ATM)](https://careers.welinktalent.com/job/34144)
+- [Sales Director Aircraft Engines](https://careers.welinktalent.com/job/34912)
+- [Technical Architect/Solutions - Air Traffic Management (ATM)](https://careers.welinktalent.com/job/34144)
 - [Senior Manager APAC, MRO Sales & Marketing](https://careers.welinktalent.com/job/34411)
 
 ### Technology & AI
-- [Senior AI DevOps Engineer — Singapore](https://careers.welinktalent.com/job/34949)
+- [Senior AI DevOps Engineer](https://careers.welinktalent.com/job/34949)
 - [AI ML Forward Deploy Engineer](https://careers.welinktalent.com/job/34714)
-- [Manager / Director — Enterprise Data & AI Advisory (SEA)](https://careers.welinktalent.com/job/34947)
-- [Manager / Director — Business Technology Advisory (SEA)](https://careers.welinktalent.com/job/34946)
+- [Manager / Director – Enterprise Data & AI Advisory (SEA)](https://careers.welinktalent.com/job/34947)
+- [Manager / Director – Business Technology Advisory (SEA)](https://careers.welinktalent.com/job/34946)
 
 ### Finance & Accounting
 - [Revenue Recognition Accountant (Woodlands)](https://careers.welinktalent.com/job/34945)
 - [Senior Accounting Specialist](https://careers.welinktalent.com/job/34615)
-- [Manager / Senior Manager — Derivatives](https://careers.welinktalent.com/job/34813)
+- [Manager / Senior Manager Derivatives based in Singapore](https://careers.welinktalent.com/job/34813)
 
 ### Banking & Wealth Management
-- [Business Analyst — CIB, Singapore](https://careers.welinktalent.com/job/35048)
-- [Senior Consultant CIB — Hong Kong](https://careers.welinktalent.com/job/34345)
-- [Senior Consultant / Manager — CIB, Singapore](https://careers.welinktalent.com/job/34077)
+- [Business Analyst - CIB based in Singapore](https://careers.welinktalent.com/job/35048)
+- [Senior Consultant CIB - HK based in Hong Kong Island, HK](https://careers.welinktalent.com/job/34345)
+- [Senior Consultant / Manager - CIB based in Singapore](https://careers.welinktalent.com/job/34077)
 - [Wealth Management Manager / Senior Manager / Managing Director](https://careers.welinktalent.com/job/33975)
-- [Senior Business Development, Institutional Clients (HK)](https://careers.welinktalent.com/job/33676)
-- [KYC Analyst — Hong Kong](https://careers.welinktalent.com/job/35114)
+- [Senior Business Development, Institutional Clients (HK) based in Hong Kong Island, HK](https://careers.welinktalent.com/job/33676)
+- [KYC Analyst - HK based in Hong Kong](https://careers.welinktalent.com/job/35114)
 
 ### Business Development & Leadership
-- [Defense Business Development Manager ASEAN — Singapore](https://careers.welinktalent.com/job/35181)
+- [Defense Business Development Manager ASEAN](https://careers.welinktalent.com/job/35181)
 - [Strategic Business Manager](https://careers.welinktalent.com/job/34580)
-- [CIO APMEA — Facility Management](https://careers.welinktalent.com/job/34378)
-- [Sales & Business Development Manager — MICE Industry](https://careers.welinktalent.com/job/33444)
-- [Business Development Entrepreneur — Flexible & Commission-based](https://careers.welinktalent.com/job/33043)
-- [Recruitment Entrepreneur — Flexible & Commission-based](https://careers.welinktalent.com/job/32941)
+- [CIO APMEA - Facility Management](https://careers.welinktalent.com/job/34378)
+- [Sales & Business Development Manager – MICE Industry](https://careers.welinktalent.com/job/33444)
+- [Business Development Entrepreneur - Flexible & Commission-based](https://careers.welinktalent.com/job/33043)
+- [Recruitment Entrepreneur – Flexible & Commission-Based](https://careers.welinktalent.com/job/32941)
 
 ---
 
