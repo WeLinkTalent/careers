@@ -12,9 +12,9 @@ We specialise in placing **AI ML DevOps** talent and professionals for **AI, ML,
 
 ---
 
-## Open Positions (22)
+## Open Positions (23)
 
-_Last updated: October 23, 2026 — auto-synced from careers.welinktalent.com_
+_Last updated: October 26, 2026 — auto-synced from careers.welinktalent.com_
 
 Singapore roles: Open to Singaporeans, PRs and Employment Pass holders.
 
@@ -36,6 +36,7 @@ Singapore roles: Open to Singaporeans, PRs and Employment Pass holders.
 
 ### Banking & Wealth Management
 - [Business Analyst - CIB based in Singapore](https://careers.welinktalent.com/job/35048)
+- [Senior Consultant CIB - SG](https://careers.welinktalent.com/job/35247)
 - [Senior Consultant CIB - HK based in Hong Kong Island, HK](https://careers.welinktalent.com/job/34345)
 - [Senior Consultant / Manager - CIB based in Singapore](https://careers.welinktalent.com/job/34077)
 - [Wealth Management Manager / Senior Manager / Managing Director](https://careers.welinktalent.com/job/33975)
