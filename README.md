@@ -12,9 +12,9 @@ We specialise in placing **AI ML DevOps** talent and professionals for **AI, ML,
 
 ---
 
-## Open Positions (23)
+## Open Positions (24)
 
-_Last updated: October 26, 2026 — auto-synced from careers.welinktalent.com_
+_Last updated: October 27, 2026 — auto-synced from careers.welinktalent.com_
 
 Singapore roles: Open to Singaporeans, PRs and Employment Pass holders.
 
@@ -50,6 +50,9 @@ Singapore roles: Open to Singaporeans, PRs and Employment Pass holders.
 - [Sales & Business Development Manager – MICE Industry](https://careers.welinktalent.com/job/33444)
 - [Business Development Entrepreneur - Flexible & Commission-based](https://careers.welinktalent.com/job/33043)
 - [Recruitment Entrepreneur – Flexible & Commission-Based](https://careers.welinktalent.com/job/32941)
+
+### Marketing & Communications
+- [Marketing and Communications Manager - Education](https://careers.welinktalent.com/job/35281)
 
 ---
 
