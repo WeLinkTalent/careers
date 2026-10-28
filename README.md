@@ -12,9 +12,9 @@ We specialise in placing **AI ML DevOps** talent and professionals for **AI, ML,
 
 ---
 
-## Open Positions (24)
+## Open Positions (23)
 
-_Last updated: October 27, 2026 — auto-synced from careers.welinktalent.com_
+_Last updated: October 29, 2026 — auto-synced from careers.welinktalent.com_
 
 Singapore roles: Open to Singaporeans, PRs and Employment Pass holders.
 
@@ -45,7 +45,6 @@ Singapore roles: Open to Singaporeans, PRs and Employment Pass holders.
 
 ### Business Development & Leadership
 - [Defense Business Development Manager ASEAN](https://careers.welinktalent.com/job/35181)
-- [Strategic Business Manager](https://careers.welinktalent.com/job/34580)
 - [CIO APMEA - Facility Management](https://careers.welinktalent.com/job/34378)
 - [Sales & Business Development Manager – MICE Industry](https://careers.welinktalent.com/job/33444)
 - [Business Development Entrepreneur - Flexible & Commission-based](https://careers.welinktalent.com/job/33043)
