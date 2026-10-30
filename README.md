@@ -1,14 +1,26 @@
-# WeLinkTalent Careers — Open Job Opportunities
+# WeLinkTalent Careers — Engineering, AI, ML & DevOps Roles
 
-**WeLinkTalent** is a boutique executive search & recruitment firm based in **Singapore** since 2015. We recruit senior and mid-level talent across **technology, finance, aviation, AI, machine learning, data and business development** in Singapore, Hong Kong and across Asia.
+**WeLinkTalent** is a boutique executive search & recruitment firm based in **Singapore**, hiring senior and mid-level technology talent since 2015.
 
-> We link the right talent to the right organisation.
+We are **four consultants, not forty**. The person you meet is the person who runs your search — the same person from first call to offer. No handoff, no account manager.
 
 We specialise in placing **AI ML DevOps** talent and professionals for **AI, ML, DevOps, data engineering, cloud, software, fintech, web3** and leadership roles. Typical positions: AI/ML DevOps engineers, data scientists, platform & cloud engineers, product managers, and C-level / director appointments.
+
+> We link the right talent to the right organisation.
 
 🔗 **Full job board:** https://careers.welinktalent.com/
 
 🗺️ **Where we can support your search:** [view the IESF network map](https://welinktalent.github.io/careers/map/)
+
+---
+
+## For engineers & technologists
+
+This repository is our open window for technology roles. It syncs daily with our live job board, so the list below is current.
+
+**Watch or star this repo** to see new technology roles as they appear.
+
+**Building your own job-search tools?** See [community/agent-scripts](https://github.com/WeLinkTalent/careers/tree/main/community/agent-scripts) — our open space from "Build Your Own AI Agent to Search for Jobs".
 
 ---
 
